@@ -20,6 +20,7 @@ public class Main extends Activity {
 		setContentView(R.layout.main);
 		superPerotti();
 		anotherMethod();
+		yetAnother();
 	}
 
 	public void superPerotti() {
@@ -28,5 +29,9 @@ public class Main extends Activity {
 
 	public void anotherMethod() {
 
+	}
+	
+	public void yetAnother() {
+		
 	}
 }
