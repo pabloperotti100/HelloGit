@@ -12,6 +12,7 @@ public class Main extends Activity {
 
 		// HELLO WORLD MY ASS
 		// OK. (another comment)
+		// Yet another comment that adds a lot of insight.
 
 	}
 
