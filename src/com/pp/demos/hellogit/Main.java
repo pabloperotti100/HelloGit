@@ -11,7 +11,7 @@ public class Main extends Activity {
         initLayout();
         
         // HELLO WORLD MY ASS
-        // OK.
+        // OK. (another comment)
         
     }
 
