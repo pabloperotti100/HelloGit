@@ -19,9 +19,14 @@ public class Main extends Activity {
 	private void initLayout() {
 		setContentView(R.layout.main);
 		superPerotti();
+		anotherMethod();
 	}
 
 	public void superPerotti() {
+
+	}
+
+	public void anotherMethod() {
 
 	}
 }
