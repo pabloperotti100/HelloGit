@@ -24,6 +24,7 @@ public class Main extends Activity {
 		anotherMethod();
 		yetAnother();
 		pleaseNoMore();
+		guessWhatNewFeatureIsThis();
 	}
 
 	public void superPerotti() {
@@ -40,5 +41,10 @@ public class Main extends Activity {
 	
 	public void pleaseNoMore(){
 		
+	}
+	
+	public void guessWhatNewFeatureIsThis()
+	{
+		// yeah, none.
 	}
 }
