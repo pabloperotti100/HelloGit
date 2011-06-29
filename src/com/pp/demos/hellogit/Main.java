@@ -11,7 +11,7 @@ public class Main extends Activity {
         setContentView(R.layout.main);
         
         // HELLO WORLD MY ASS
-        // OK.
+        // OK. (another comment)
         
     }
 }
