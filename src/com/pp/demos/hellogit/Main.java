@@ -21,6 +21,7 @@ public class Main extends Activity {
 		superPerotti();
 		anotherMethod();
 		yetAnother();
+		pleaseNoMore();
 	}
 
 	public void superPerotti() {
@@ -32,6 +33,10 @@ public class Main extends Activity {
 	}
 	
 	public void yetAnother() {
+		
+	}
+	
+	public void pleaseNoMore(){
 		
 	}
 }
