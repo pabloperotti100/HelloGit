@@ -24,7 +24,7 @@ public class Main extends Activity {
 		anotherMethod();
 		yetAnother();
 		pleaseNoMore();
-		myFeature();
+		myFeature(); //lol
 	}
 
 	private void myFeature() {
