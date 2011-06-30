@@ -27,7 +27,7 @@ public class Main extends Activity {
 	}
 
 	public void superPerotti() {
-
+			// This is a bot
 	}
 
 	public void anotherMethod() {
