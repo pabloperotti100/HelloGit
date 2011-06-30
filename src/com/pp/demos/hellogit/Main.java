@@ -44,6 +44,6 @@ public class Main extends Activity {
 	}
 	
 	public void pleaseNoMore(){
-		
+		// this should be removed
 	}
 }
