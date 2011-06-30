@@ -29,6 +29,7 @@ public class Main extends Activity {
 
 	private void myFeature() {
 		//TODO: implement this!
+		// and that!
 	}
 
 	public void superPerotti() {
