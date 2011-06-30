@@ -24,6 +24,11 @@ public class Main extends Activity {
 		anotherMethod();
 		yetAnother();
 		pleaseNoMore();
+		myFeature();
+	}
+
+	private void myFeature() {
+		
 	}
 
 	public void superPerotti() {
